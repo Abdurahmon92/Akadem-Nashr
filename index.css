@@ -6,13 +6,6 @@
     list-style: none;
     text-decoration: none;
 }
-
-* :focus{
-    outline: dashed #ff7500 2px;
-    outline-offset: 5px;
-}
-
-
 /*
  font-family: 'Hind Vadodara', sans-serif;
 font-family: 'IBM Plex Sans Thai Looped', sans-serif;
